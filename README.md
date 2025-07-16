@@ -17,7 +17,7 @@ Exception Handling: Handles I/O errors gracefully.
 
 ✅ Project Structure
 
-LibraryManagementSystem
+LibraryManagementSystem 
  ├── LibraryManagementSystem.java   # Main entry point
  ├── Library.java                   # Core library operations
  ├── Book.java                      # Book model class
